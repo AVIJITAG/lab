@@ -1,4 +1,4 @@
-Q.3   Write a Java program to check whether Java is installed on your computer \\
+Q.3   Write a Java program to check whether Java is installed on your computer 
 
 
 
