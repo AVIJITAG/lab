@@ -1,6 +1,6 @@
  
-(1)Write a Java program that takes five numbers as input to calculate and print\\
-the average of the numbers.\\
+(1)Write a Java program that takes five numbers as input to calculate and print
+the average of the numbers.
 
 
 
