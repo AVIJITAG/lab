@@ -1,3 +1,8 @@
+//Write a Java program that accepts two integers from the user and then 
+//prints the sum, the difference, the product, the average, the distance (the 
+//difference between integer), the maximum (the larger of the two integers), the 
+//minimum (smaller of the two integers)
+
 package newproject.java;
 import java.util.Scanner;
 
